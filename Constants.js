@@ -1,4 +1,4 @@
-//Constants for Scripts
+//Constants for Scriptss
 
 function generateFirstName() {
     return `TestFirstname${Date.now()}`;  // Generates "Test" + current timestamp (milliseconds)
