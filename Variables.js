@@ -1,5 +1,4 @@
-//Constants for Scriptss
-
+/////New User Data/////
 export function generateFirstName() {
     return `TestFirstname${Date.now()}`;  // Generates "Test" + current timestamp (milliseconds)
 }
